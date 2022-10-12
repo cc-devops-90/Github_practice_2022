@@ -1,1 +1,6 @@
 This is my first file to add remotely
+
+##
+Cheking Remote changes locally by using git pull command
+
+$git pull 
